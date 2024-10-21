@@ -216,8 +216,9 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
         height:450px;
         text-align: center;
         
+
         width:1000px;
-        margin:0 auto;
+        
       
        }
        #contact .contact-heading{
@@ -246,12 +247,13 @@ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
     width:70px;
 }
  
-.social-list {
+.social-list{
     
-  margin-top:190px !important;
+    
+    margin-top: 250px !important;
+    padding-left: 0; 
     font-size:25px;
-  float:left;
-  margin-left: -350px;
-  padding-left: 12px;
+ 
+    
  }
 }
